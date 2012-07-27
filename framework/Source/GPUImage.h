@@ -111,3 +111,4 @@
 #import "GPUImageHueFilter.h"
 #import "GPUImageGlassSphereFilter.h"
 #import "GPUImageColorBalanceFilter.h"
+#import "GPUImageLookupFilter.h"
