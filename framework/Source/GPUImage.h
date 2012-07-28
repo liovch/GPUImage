@@ -112,3 +112,6 @@
 #import "GPUImageGlassSphereFilter.h"
 #import "GPUImageColorBalanceFilter.h"
 #import "GPUImageLookupFilter.h"
+#import "GPUImageAmatorkaFilter.h"
+#import "GPUImageMissEtikateFilter.h"
+#import "GPUImageSoftEleganceFilter.h"
